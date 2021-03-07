@@ -1,16 +1,18 @@
-### Hi there 👋
+### I'm Adrien
 
-<!--
-**adpeyre/adpeyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"For a tidy code!"
 
-Here are some ideas to get you started:
+#### What I master
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages & Frameworks
+  - PHP
+  - JavaScript
+  - TypeScript
+  - HTML/CSS
+  - Symfony
+  - Vuejs
+
+
+#### About my Github repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adpeyre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
